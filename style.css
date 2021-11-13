@@ -172,6 +172,9 @@ a {
     background: #fff;
     padding-top: 75px;
     padding-bottom: 65px;
+    border-radius: 25px;
+    margin-right: 5%;
+    margin-left: 5%;
 
 }
 .news-text{
